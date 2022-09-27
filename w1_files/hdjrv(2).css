@@ -1,0 +1,95 @@
+img{max-width:100%;}
+@media only screen and (min-width:320px) and (max-width:767px){.container{width:90%;}
+.web-menu{display:none;}
+#mob-menu-container{display:block;}
+#home-banner .banner-content .main-title{padding-top:120px;font-size:48px;}
+.welcome-content{width:100%;}
+.welcome-image{width:100%;}
+#what-we-do-fluid ul li{width:100%;margin:0 0 30px 0;}
+#clients-fluid ul li{width:100%;margin:0 0 30px 0;}
+#blog-fluid ul li{width:100%;margin:0 0 30px 0;}
+#customer-fluid ul li{width:100%;margin:0 0 30px 0;}
+#contact-fluid .contact-details{width:100%;}
+#contact-fluid .contact-form{width:100%;padding:20px;}
+.foot-about{width:100%;margin-right:0;margin-bottom:30px;}
+.foot-services{width:100%;margin-right:0;margin-bottom:30px;}
+.foot-more{width:100%;margin-right:0;margin-bottom:30px;}
+.foot-licence{width:100%;margin-right:0;margin-bottom:30px;}
+.foot-contact{width:100%;}
+#sub-banner .banner-content .main-title{font-size:48px;padding-top:120px;}
+#sub-banner .banner-content .sub-content{font-size:18px;line-height:30px;}
+.our-values-row-one ul li{width:100%;margin:0 0 30px 0;}
+.our-values-row-two .column-01{width:100%;margin-right:0;}
+.our-values-row-two .column-02{width:100%;margin-right:0;}
+.our-values-row-two .column-03{width:100%;margin-right:0;}
+ul.ourteam-list li{width:100%;margin:0 0 30px 0;}
+.csr-box .column-01{width:100%;}
+.csr-box .column-02{width:100%;}
+.web-portal-row-one .image-content{width:100%;}
+.web-portal-row-one .image-holder{width:100%;}
+.web-portal-row-two .column{width:100%;}
+.rwd-row-one .image-holder{width:100%;}
+.rwd-row-one .image-content{width:100%;}
+.rwd-row-two .column{width:100%;}
+.seo-row-one .image-content{width:100%;}
+.seo-row-one .image-holder{width:100%;}
+.seo-row-two .column{width:100%;margin-bottom:30px;}
+.mobile-app-row .image-holder{width:100%;}
+.mobile-app-row .image-content{width:100%;}
+.careers-row .careers-form{width:100%;}
+.careers-row .careers-opening{width:100%;}
+.contact-details .contact-box{width:100%;}
+.online-store-row-one .image-content{width:100%;}
+.online-store-row-one .image-holder{width:100%;}
+.online-store-row-two .column{width:100%;}
+.online-store-row-three .video-content{width:100%;}
+.online-store-row-three .video-box{width:100%;}
+.request-form-box .gform_wrapper{width:100% !important;}
+#blog-page-fluid .blog-left{width:100%;margin-bottom:30px;}
+#blog-page-fluid .blog-right{width:100%;}
+p.comment-form-author{margin-right:0;margin-bottom:15px;width:100%;}
+p.comment-form-email{margin-right:0;margin-bottom:15px;width:100%;}
+p.comment-form-url{margin-right:0;margin-bottom:15px;width:100%;}
+section.mobile-app-row.faciliteasy-app-row { padding: 10px 0;
+}
+}
+@media only screen and (min-width:768px) and (max-width:1024px){.container{width:90%;}
+#access li{margin:0 0 0 25px;}
+.welcome-content{width:49%;}
+.welcome-image{width:49%;}
+#what-we-do-fluid ul li{width:23.5%;margin:0 2% 0 0;}
+#clients-fluid ul li{width:23.5%;margin:0 2% 0 0;}
+#customer-fluid ul li{width:32%;margin:0 2% 0 0;}
+#blog-fluid ul li{width:32%;margin:0 2% 0 0;}
+#contact-fluid .contact-details{width:30%;}
+#contact-fluid .contact-form{width:68%;}
+.foot-about{width:32%;margin:0 2% 30px 0;}
+.foot-services{width:32%;margin:0 2% 30px 0;}
+.foot-more{width:32%;margin:0 0 30px 0;}
+.foot-licence{width:32%;margin:0 2% 0 0;}
+.foot-contact{width:66%;}
+.contact-details .contact-box{width:32%;margin:0 2% 0 0;}
+.contact-details .contact-box.no-margin{margin:0;}
+.online-store-row-one .image-content{width:49%;}
+.online-store-row-one .image-holder{width:49%;}
+.online-store-row-three .video-content{width:49%;}
+.online-store-row-three .video-box{width:49%;}
+.web-portal-row-one .image-content{width:49%;}
+.web-portal-row-one .image-holder{width:49%;}
+.rwd-row-one .image-holder{width:49%;}
+.rwd-row-one .image-content{width:49%;}
+.seo-row-one .image-content{width:49%;}
+.seo-row-one .image-holder{width:49%;}
+.mobile-app-row .image-holder{width:49%;}
+.mobile-app-row .image-content{width:49%;}
+.csr-box .column-01{width:49%;}
+.csr-box .column-02{width:49%;}
+ul.ourteam-list li{width:23.5%;margin:0 2% 30px 0;}
+ul.ourteam-list li .content{padding:10px;}
+.our-values-row-one ul li{width:32%;margin:0 2% 0 0;}
+.request-form-box .gform_wrapper{width:100% !important;}
+#blog-page-fluid .blog-left{width:70%;}
+#blog-page-fluid .blog-right{width:28%;}
+}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:landscape){}
+@media only screen and (min-width:768px) and (max-width:1024px) and (orientation:portrait){}
